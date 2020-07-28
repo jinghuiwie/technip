@@ -1,0 +1,46 @@
+.banner{
+  display:flex;
+  background-image: url(../../images/white&gold.png);
+  background-repeat: no-repeat;
+  background-position: 0%;
+ }
+
+ #img {
+  margin: 0px 0px 0px 165px;
+  width: 910px;
+  height: auto;
+}
+
+#technip {
+  padding: 299px 0px 0px 63px;
+  height: 122px;
+  width:auto;
+}
+
+
+.subbanner{
+  background-color: white;
+  color:black;
+  background-image: url(../../images/greygold.png);
+  background-repeat: no-repeat;
+  background-position: 3% 29%;
+  background-size: 13%;
+  margin: -3px 0px;
+  padding: 180px 61px 100px 153px;
+  color: black;
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  font-size:25px;
+}
+
+.subbanner p{
+  text-align: justify;
+  color: #3f3f44;
+  font-size: 19px;
+}
+
+
+
+
+  color: #B49B6D;
+
